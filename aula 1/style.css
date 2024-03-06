@@ -1,0 +1,23 @@
+body {
+    width: 90%;
+}
+
+h1 {
+    text-align: center;
+    color: purple;
+    margin-top: 30px;
+}
+
+article p {
+    color: blue;
+}
+
+.pode-ser-qualquer-coisa{
+    width: 100%;
+    font-size: 15em;
+    color: brown;
+}
+
+#paragrafo {
+    color:blueviolet;
+}
